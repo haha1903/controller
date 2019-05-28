@@ -76,3 +76,8 @@ __pycache__
 # Misc #
 ########
 build
+
+# Haha #
+####################
+Pipfile.lock
+*.iml
