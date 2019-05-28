@@ -1,0 +1,11 @@
+# Infinity Ergodox Left Hand
+
+Name = "Infinity Ergodox Left Hand";
+Version = 0.3;
+Author = "HaaTa (Jacob Alexander) 2015-2017";
+
+# Modified Date
+Date = 2017-11-15;
+
+
+U"7" : U"8" + U"9";
