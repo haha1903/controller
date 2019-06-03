@@ -8,4 +8,22 @@ Author = "HaaTa (Jacob Alexander) 2015-2017";
 Date = 2017-11-15;
 
 
-U"5" : U"6";
+U"Function6" : U"Lock2";
+U"Function1" : U"Lock1";
+U"Equals" : U"Esc";
+
+U"Function2" : U"Function1";
+
+U"Function7" : U"Function1";
+
+U"Function3" : U"LALT";
+U"Function4" : U"LGUI";
+U"Function5" : U"Space";
+U"Left" : U"Space";
+
+U"Backslash" : U"Tab";
+U"Tab" : U"LCTRL";
+
+U"Space" : U"Enter";
+
+U"RGUI" : flashMode();
